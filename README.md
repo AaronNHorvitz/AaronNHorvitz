@@ -1,49 +1,5 @@
 ![Aaron Horvitz GitHub Portfolio Banner](./assets/banner.svg)
 
-# Aaron Horvitz
-
-## Senior Data Scientist & AI Engineer
-
-### Applied GenAI • Applied Statistics • Machine Learning • Verifiable Python Systems
-
-I build practical AI and data science systems that combine **Generative AI**, **statistical modeling**, **deterministic verification**, and **production-grade Python engineering**.
-
-My background spans enterprise GenAI delivery, federal data science, applied statistics, LLM/RAG support, automated audit pipelines, deterministic NLP classification, forecasting, ETL automation, and local-first AI verification systems.
-
-I am strongest where AI and data systems need to be more than impressive demos: they need to be **testable, explainable, verifiable, useful, and production-ready**.
-
-## What I Build
-
-### Applied GenAI & Verification Systems
-
-- Agentic AI workflows
-- LLM/RAG support for large knowledge bases
-- Local-first AI pipelines
-- Human-in-the-loop review systems
-- Deterministic verification layers to reduce hallucination risk
-- Structured AI workflows designed for reliability, traceability, and real-world use
-
-### Applied Statistics & Machine Learning
-
-- Time-series forecasting
-- Classification and text mining
-- Regression and shrinkage methods
-- Model diagnostics and statistical tooling
-- Classical ML alternatives to LLM workflows when accuracy, cost, speed, or auditability matter
-- Statistical systems that can be explained to both technical and non-technical stakeholders
-
-### Python Data Engineering
-
-- ETL scripting and pipeline automation
-- Structured and unstructured data processing
-- Pydantic validation
-- FastAPI services
-- SQLite-backed workflow systems
-- Production-oriented testing and code review practices
-- Modular Python components designed for maintainability
-
----
-
 ## Featured Portfolio Projects
 
 | Project | Focus | What Hiring Teams Should Notice |
