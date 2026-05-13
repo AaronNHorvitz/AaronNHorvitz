@@ -12,25 +12,6 @@ My background spans enterprise GenAI delivery, federal data science, applied sta
 
 I am strongest where AI and data systems need to be more than impressive demos: they need to be **testable, explainable, verifiable, useful, and production-ready**.
 
----
-
-## For Hiring Teams
-
-This portfolio is designed to show how I think as both a data scientist and an engineer.
-
-I focus on systems that connect statistical rigor with operational usefulness:
-
-- Building GenAI workflows with deterministic verification layers
-- Translating messy business problems into structured Python systems
-- Designing auditable NLP and classification pipelines
-- Creating forecasting, regression, and statistical modeling tools
-- Contributing to enterprise-grade AI delivery and deployment
-- Writing code that can be reviewed, tested, maintained, and explained
-
-The projects below are selected to show applied judgment across **GenAI**, **classical ML**, **statistics**, **data engineering**, and **human-in-the-loop AI systems**.
-
----
-
 ## What I Build
 
 ### Applied GenAI & Verification Systems
