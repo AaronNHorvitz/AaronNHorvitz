@@ -2,7 +2,7 @@
 
 ## Featured Portfolio Projects
 
-| Project | Focus | What Hiring Teams Should Notice |
+| Project | Focus | Technical Highlights |
 |---|---|---|
 | [Agent Gatsby](https://github.com/AaronNHorvitz/Agent-Gatsby) | Local-first GenAI pipeline | Deterministic state machine, quote verification, bounded expansion loops, hallucination control, multilingual output |
 | [Labels On Tap](https://github.com/AaronNHorvitz/Labels-On-Tap) | AI verification & compliance | Local-first ML compliance engine using OCR/NLP, deterministic matching, FastAPI, Docker, and human-in-the-loop review |
