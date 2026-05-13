@@ -203,3 +203,5 @@ Please use the contact and social links in my GitHub profile sidebar.
 GitHub: [github.com/AaronNHorvitz](https://github.com/AaronNHorvitz)
 
 LinkedIn: [linkedin.com/in/aaron-horvitz-a666215](https://www.linkedin.com/in/aaron-horvitz-a666215)
+
+Resume: [Download Resume](./assets/Aaron-Horvitz-Resume.pdf)
