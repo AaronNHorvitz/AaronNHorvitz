@@ -4,11 +4,11 @@
 
 ## Senior Data Scientist & AI Engineer
 
-### Production GenAI • Applied Statistics • Machine Learning • Verifiable Python Systems
+### Applied GenAI • Applied Statistics • Machine Learning • Verifiable Python Systems
 
 I build practical AI and data science systems that combine **Generative AI**, **statistical modeling**, **deterministic verification**, and **production-grade Python engineering**.
 
-My background spans enterprise GenAI deployment, federal data science, applied statistics, LLM/RAG support, automated audit pipelines, deterministic NLP classification, forecasting, ETL automation, and local-first AI verification systems.
+My background spans enterprise GenAI delivery, federal data science, applied statistics, LLM/RAG support, automated audit pipelines, deterministic NLP classification, forecasting, ETL automation, and local-first AI verification systems.
 
 I am strongest where AI and data systems need to be more than impressive demos: they need to be **testable, explainable, verifiable, useful, and production-ready**.
 
@@ -24,7 +24,7 @@ I focus on systems that connect statistical rigor with operational usefulness:
 - Translating messy business problems into structured Python systems
 - Designing auditable NLP and classification pipelines
 - Creating forecasting, regression, and statistical modeling tools
-- Supporting enterprise-grade AI deployment
+- Contributing to enterprise-grade AI delivery and deployment
 - Writing code that can be reviewed, tested, maintained, and explained
 
 The projects below are selected to show applied judgment across **GenAI**, **classical ML**, **statistics**, **data engineering**, and **human-in-the-loop AI systems**.
@@ -33,7 +33,7 @@ The projects below are selected to show applied judgment across **GenAI**, **cla
 
 ## What I Build
 
-### Production GenAI Systems
+### Applied GenAI & Verification Systems
 
 - Agentic AI workflows
 - LLM/RAG support for large knowledge bases
@@ -120,7 +120,7 @@ A bioinformatics and AI pipeline focused on local/on-device interpretation and c
 
 ### Gen AI Python Systems Engineer — PwC Advisory Services
 
-Building production-grade Generative AI systems and modular Python pipeline components for enterprise AI deployment.
+Contributing to production-grade Generative AI systems and building modular Python pipeline components for enterprise AI delivery.
 
 Recent work includes object-oriented pipeline architecture, complex data ingestion, Pydantic validation, production Python development, unit testing, and peer-reviewed code delivery.
 
