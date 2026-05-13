@@ -4,13 +4,13 @@
 
 ## Senior Data Scientist & AI Engineer
 
-### Production GenAI • Applied Statistics • Machine Learning • Auditable Python Systems
+### Production GenAI • Applied Statistics • Machine Learning • Verifiable Python Systems
 
 I build practical AI and data science systems that combine **Generative AI**, **statistical modeling**, **deterministic verification**, and **production-grade Python engineering**.
 
 My background spans enterprise GenAI deployment, federal data science, applied statistics, LLM/RAG support, automated audit pipelines, deterministic NLP classification, forecasting, ETL automation, and local-first AI verification systems.
 
-I am strongest where AI systems need to be more than impressive demos: they need to be **testable, explainable, auditable, useful, and production-ready**.
+I am strongest where AI and data systems need to be more than impressive demos: they need to be **testable, explainable, verifiable, useful, and production-ready**.
 
 ---
 
@@ -40,7 +40,7 @@ The projects below are selected to show applied judgment across **GenAI**, **cla
 - Local-first AI pipelines
 - Human-in-the-loop review systems
 - Deterministic verification layers to reduce hallucination risk
-- Structured AI workflows designed for reliability, auditability, and real-world use
+- Structured AI workflows designed for reliability, traceability, and real-world use
 
 ### Applied Statistics & Machine Learning
 
@@ -173,7 +173,7 @@ Unit Testing · Code Review · Modular Architecture · ETL Automation · Data Va
 I am especially interested in AI and data systems that are:
 
 - **Useful in real operational settings**
-- **Auditable and explainable**
+- **Reviewable and explainable**
 - **Reliable under messy real-world data**
 - **Statistically defensible**
 - **Testable and maintainable**

@@ -38,7 +38,7 @@
   </text>
 
   <text x="80" y="260" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="400">
-    Production GenAI • Applied Statistics • Machine Learning • Auditable Python Systems
+    Production GenAI • Applied Statistics • Machine Learning • Verifiable Python Systems
   </text>
 
   <g opacity="0.92">
@@ -59,7 +59,7 @@
 
     <rect x="895" y="330" width="255" height="42" rx="21" fill="#020617" stroke="#334155"/>
     <text x="930" y="358" fill="#ECFEFF" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600">
-      Auditable AI
+      AI Verification
     </text>
   </g>
 </svg>
