@@ -1,0 +1,65 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Aaron Horvitz GitHub Portfolio Banner</title>
+  <desc id="desc">Professional portfolio banner for Aaron Horvitz, Senior Data Scientist and AI Engineer.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0F172A"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#1E293B"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="80" y1="300" x2="1260" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#CBD5E1" stroke-width="1" opacity="0.18"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="420" fill="url(#bg)"/>
+  <rect width="1600" height="420" fill="url(#grid)" opacity="0.28"/>
+
+  <circle cx="1320" cy="80" r="160" fill="#38BDF8" opacity="0.10"/>
+  <circle cx="1480" cy="310" r="210" fill="#818CF8" opacity="0.10"/>
+  <circle cx="1160" cy="360" r="120" fill="#A78BFA" opacity="0.10"/>
+
+  <rect x="80" y="292" width="1040" height="8" rx="4" fill="url(#accent)"/>
+
+  <text x="80" y="135" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700" letter-spacing="-1.5">
+    Aaron Horvitz
+  </text>
+
+  <text x="80" y="200" fill="#E5E7EB" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="500">
+    Senior Data Scientist &amp; AI Engineer
+  </text>
+
+  <text x="80" y="260" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="400">
+    Production GenAI • Applied Statistics • Machine Learning • Auditable Python Systems
+  </text>
+
+  <g opacity="0.92">
+    <rect x="80" y="330" width="230" height="42" rx="21" fill="#020617" stroke="#334155"/>
+    <text x="115" y="358" fill="#E0F2FE" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600">
+      GenAI Systems
+    </text>
+
+    <rect x="335" y="330" width="265" height="42" rx="21" fill="#020617" stroke="#334155"/>
+    <text x="370" y="358" fill="#E0E7FF" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600">
+      Statistical Modeling
+    </text>
+
+    <rect x="625" y="330" width="245" height="42" rx="21" fill="#020617" stroke="#334155"/>
+    <text x="660" y="358" fill="#F3E8FF" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600">
+      Production Python
+    </text>
+
+    <rect x="895" y="330" width="255" height="42" rx="21" fill="#020617" stroke="#334155"/>
+    <text x="930" y="358" fill="#ECFEFF" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600">
+      Auditable AI
+    </text>
+  </g>
+</svg>
