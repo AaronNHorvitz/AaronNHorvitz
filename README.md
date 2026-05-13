@@ -120,19 +120,6 @@ My preferred approach is pragmatic: use GenAI where it adds value, use classical
 
 ---
 
-## Repository Review Guide
-
-If you are reviewing this GitHub profile for a role, I recommend starting with:
-
-1. **Agent Gatsby** — for GenAI orchestration, deterministic verification, and local-first AI design.
-2. **Labels On Tap** — for AI verification, compliance automation, OCR/NLP, FastAPI, Docker, and human-in-the-loop workflow design.
-3. **LexiChess** — for LLM/agent benchmarking, reproducibility, live interfaces, and tournament infrastructure.
-4. **TopicMiner** — for deterministic NLP classification and classical ML alternatives to LLM workflows.
-5. **AdaptiveLASSO** — for statistical computing, regression, shrinkage methods, packaging, and reproducibility.
-6. **iSignify** — for bioinformatics, local AI interpretation, and algorithmic design.
-
----
-
 ## Connect
 
 Please use the contact and social links in my GitHub profile sidebar.
