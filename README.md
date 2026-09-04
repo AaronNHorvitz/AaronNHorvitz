@@ -17,6 +17,12 @@
 
 ## Project Portfolio Narrative
 
+### CodingMage
+
+A local multi-agent engineering coordinator that turns a suite of AI models into a development team with a chain of command: a lead that plans and assigns bounded work, isolated pods that implement, and an independent senior reviewer that signs off on the exact commit before integration. The coordinator is the only Git, merge, and credential authority, so long roadmaps run end to end without a human refereeing every step and without any agent acting on the outside world alone.
+
+**Key themes:** multi-agent orchestration, verified results per token, deny-first permissions, deterministic review gates, restart-safe long builds.
+
 ### Agent Gatsby
 
 A local-first AI pipeline built around deterministic workflow control. The project demonstrates how GenAI systems can be constrained, verified, and structured to reduce hallucination risk while still producing useful multilingual output.
@@ -53,19 +59,11 @@ A bioinformatics and AI pipeline focused on local/on-device interpretation and c
 
 **Key themes:** private AI, bioinformatics, k-mer algorithms, local inference, computational efficiency.
 
----
+### USTE — Universal Spatial-Temporal Engine
 
-### Universal Spatial-Temporal Engine
-
-A deterministic, multiscale, event-sourced simulation kernel in Rust: represent an enormous world as a seed, a rulebook, and a clock, and compute only what matters at the present moment while storing only what deviates.
+A deterministic, multiscale, event-sourced simulation kernel in Rust. It represents an entire universe as a seed, a rulebook, and a clock: compute only what matters at the present moment, store only what deviates from the rules, and replay any moment exactly. The founding trick of Elite and Starflight, rebuilt for modern hardware.
 
 **Key themes:** deterministic simulation, event sourcing, procedural generation, Rust, replay verification, multiscale coordinates.
-
-### CodingMage
-
-A local multi-agent engineering coordinator that turns a suite of AI models into a development team with a chain of command: a lead that plans and assigns, isolated pods that implement, and an independent senior reviewer that signs off on the exact commit before integration. The coordinator is the only Git, merge, and credential authority.
-
-**Key themes:** multi-agent orchestration, verified results per token, deny-first permissions, deterministic review gates, restart-safe long builds.
 
 ## Professional Background Snapshot
 
