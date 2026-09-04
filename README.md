@@ -4,14 +4,14 @@
 
 | Project | Focus | Technical Highlights |
 |---|---|---|
-| [Universal Spatial-Temporal Engine](https://github.com/AaronNHorvitz/Universal-Spatial-Temporal-Engine) | Deterministic simulation kernel (Rust) | Seed-plus-rules universe generation, event sourcing, multiscale coordinates, replay determinism |
-| [CodingMage](https://github.com/AaronNHorvitz/CodingMage) | Multi-agent engineering coordinator | Team-lead / implementation-pod / senior-reviewer roles, deny-first permissions, deterministic gates, restart-safe campaigns |
+| [CodingMage](https://github.com/AaronNHorvitz/CodingMage) | Multi-agent engineering coordinator | Multi-agent coding tool: AI agents take team-lead and senior-reviewer roles over isolated implementation pods, with deny-first permissions, deterministic review gates, and restart-safe long-running campaigns |
 | [Agent Gatsby](https://github.com/AaronNHorvitz/Agent-Gatsby) | Local-first GenAI pipeline | Deterministic state machine, quote verification, bounded expansion loops, hallucination control, multilingual output |
 | [Labels On Tap](https://github.com/AaronNHorvitz/Labels-On-Tap) | AI verification & compliance | Local-first ML compliance engine using OCR/NLP, deterministic matching, FastAPI, Docker, and human-in-the-loop review |
 | [LexiChess](https://github.com/AaronNHorvitz/LexiChess) | LLM/agent benchmarking | Reproducible chess-agent evaluation with legal-move validation, SQLite storage, ratings, PGN exports, and live broadcast tooling |
 | [TopicMiner](https://github.com/AaronNHorvitz/TopicMiner) | Deterministic NLP classification | Classical NLP and ML toolkit for high-volume, auditable email classification and topic discovery |
 | [AdaptiveLASSO](https://github.com/AaronNHorvitz/AdaptiveLASSO) | Statistical computing | Python package implementing adaptive LASSO with a Statsmodels-style workflow, tests, documentation, and demo notebook |
 | [iSignify](https://github.com/AaronNHorvitz/iSignify) | Bioinformatics & private AI | Local/on-device AI interpretation with custom k-mer comparison for genomic signature discovery |
+| [USTE](https://github.com/AaronNHorvitz/USTE) | Universal Spatial-Temporal Engine | A deterministic simulation kernel in Rust that renders an entire universe from a seed, a rulebook, and a clock — event-sourced and fully replayable, computing only the present moment and storing only what deviates, across scales from human to astronomical |
 
 ---
 
