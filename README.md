@@ -4,6 +4,8 @@
 
 | Project | Focus | Technical Highlights |
 |---|---|---|
+| [Universal Spatial-Temporal Engine](https://github.com/AaronNHorvitz/Universal-Spatial-Temporal-Engine) | Deterministic simulation kernel (Rust) | Seed-plus-rules universe generation, event sourcing, multiscale coordinates, replay determinism |
+| [CodingMage](https://github.com/AaronNHorvitz/CodingMage) | Multi-agent engineering coordinator | Team-lead / implementation-pod / senior-reviewer roles, deny-first permissions, deterministic gates, restart-safe campaigns |
 | [Agent Gatsby](https://github.com/AaronNHorvitz/Agent-Gatsby) | Local-first GenAI pipeline | Deterministic state machine, quote verification, bounded expansion loops, hallucination control, multilingual output |
 | [Labels On Tap](https://github.com/AaronNHorvitz/Labels-On-Tap) | AI verification & compliance | Local-first ML compliance engine using OCR/NLP, deterministic matching, FastAPI, Docker, and human-in-the-loop review |
 | [LexiChess](https://github.com/AaronNHorvitz/LexiChess) | LLM/agent benchmarking | Reproducible chess-agent evaluation with legal-move validation, SQLite storage, ratings, PGN exports, and live broadcast tooling |
@@ -53,13 +55,27 @@ A bioinformatics and AI pipeline focused on local/on-device interpretation and c
 
 ---
 
+### Universal Spatial-Temporal Engine
+
+A deterministic, multiscale, event-sourced simulation kernel in Rust: represent an enormous world as a seed, a rulebook, and a clock, and compute only what matters at the present moment while storing only what deviates.
+
+**Key themes:** deterministic simulation, event sourcing, procedural generation, Rust, replay verification, multiscale coordinates.
+
+### CodingMage
+
+A local multi-agent engineering coordinator that turns a suite of AI models into a development team with a chain of command: a lead that plans and assigns, isolated pods that implement, and an independent senior reviewer that signs off on the exact commit before integration. The coordinator is the only Git, merge, and credential authority.
+
+**Key themes:** multi-agent orchestration, verified results per token, deny-first permissions, deterministic review gates, restart-safe long builds.
+
 ## Professional Background Snapshot
+
+### IT Specialist (Artificial Intelligence), GS-15 — U.S. Department of the Treasury
+
+AI engineering for Treasury business units.
 
 ### Gen AI Python Systems Engineer — PwC Advisory Services
 
-Contributing to production-grade Generative AI systems and building modular Python pipeline components for enterprise AI delivery.
-
-Recent work includes object-oriented pipeline architecture, complex data ingestion, Pydantic validation, production Python development, unit testing, and peer-reviewed code delivery.
+Contributed to production-grade Generative AI systems and built modular Python pipeline components for enterprise AI delivery, including object-oriented pipeline architecture, complex data ingestion, Pydantic validation, unit testing, and peer-reviewed code delivery.
 
 ### Statistician / Data Scientist, GS-14 — IRS Research, Analytics, and Applied Statistics
 
